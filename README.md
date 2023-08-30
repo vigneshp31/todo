@@ -1,1 +1,1 @@
-# todo
+# todo App python(Django)
